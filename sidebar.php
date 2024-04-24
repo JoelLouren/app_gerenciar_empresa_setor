@@ -37,7 +37,7 @@
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Telas:</h6>
                 <a class="collapse-item" href="listar-empresa.php">Listar Empresas</a>
-                <a class="collapse-item" href="cadastrar-empresa.php">Cadastrar Empresa</a>
+                <!-- <a class="collapse-item" href="cadastrar-empresa.php">Cadastrar Empresa</a> -->
             </div>
         </div>
     </li>
@@ -53,7 +53,7 @@
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Telas:</h6>
                 <a class="collapse-item" href="listar-setor.php">Listar Setores</a>
-                <a class="collapse-item" href="cadastrar-setor.php">Cadastrar Setor</a>
+                <!-- <a class="collapse-item" href="cadastrar-setor.php">Cadastrar Setor</a> -->
             </div>
         </div>
     </li>
